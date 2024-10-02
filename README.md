@@ -12,7 +12,7 @@ create simple get api in main.py
 
 #docker setup
 Install docker and docker desktop and login
-mkdir Dockerfile #create docker file for fastapi project
+touch Dockerfile #create docker file for fastapi project
 add necessary commands
 docker build -t my-image . - Create docker image
 docker run -d -p 80:80 my-image -  run image docker locally
