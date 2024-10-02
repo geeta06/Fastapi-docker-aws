@@ -1,0 +1,4 @@
+*__pycache__/
+fs-docker-env
+app/__pycache__/
+
